@@ -1,16 +1,19 @@
-### Hi there 👋
-
-<!--
-**kuroxide/kuroxide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+# ###INCOMING TRANSMISSION###
+# USERNAME:		kuroxide
+# NAME:			[REDACTED]
+# AGE:			[REDACTED]
+# OCCUPATION:		Student
+#
+# PROJECTS:		a StairwayToHeaven sequel that's not just a bad touhou ripoff (on hold due to school)
+#
+# LIKES:		Rhythm games, survival shooters, ice cream
+# DISLIKES:		School
+#
+# CONTACT:		neon4272main@gmail.com
+# SOCIALS:
+#	YouTube:	https://www.youtube.com/channel/UCZGW5dxt4U1LEB1EDPHbQMA
+#
+# To help others, you need to help yourself first.
+# ###END TRANSMISSION###
+```
