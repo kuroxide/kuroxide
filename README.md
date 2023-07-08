@@ -10,10 +10,8 @@
 # LIKES:		Rhythm games, survival shooters, ice cream
 # DISLIKES:		School
 #
-# CONTACT:		neon4272main@gmail.com
-# SOCIALS:
-#	YouTube:	https://www.youtube.com/channel/UCZGW5dxt4U1LEB1EDPHbQMA
+# CONTACT:		kuroxide147@gmail.com
 #
-# To help others, you need to help yourself first.
+# Responsibility is proportional to I²R
 # ###END TRANSMISSION###
 ```
