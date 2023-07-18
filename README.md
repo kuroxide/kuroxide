@@ -13,5 +13,6 @@
 # CONTACT:		kuroxide147@gmail.com
 #
 # Responsibility is proportional to I²R
+# ALSO this is kinda cringe
 # ###END TRANSMISSION###
 ```
