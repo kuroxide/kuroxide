@@ -1,5 +1,5 @@
 school hater, random script creator \
-always going to be 'doing this thing later' \
+always going to be 'doing this thing later' 
 
 email me at kuroxide147@gmail.com \
 socials:
