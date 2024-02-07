@@ -1,5 +1,4 @@
-school hater, random script creator \
-always going to be 'doing this thing later' 
+currently trying to stuff a pastry into a calculator
 
 email me at kuroxide147@gmail.com \
 socials:
