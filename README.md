@@ -1,4 +1,4 @@
-currently trying to stuff a pastry into a calculator
+real slim, but not that shady
 
 email me at kuroxide147@gmail.com \
 socials:
