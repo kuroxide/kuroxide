@@ -1,4 +1,5 @@
-real slim, but not that shady
+real slim, but not that shady \
+stuff i'm actually working on is in codeberg
 
 email me at kuroxide147@gmail.com \
 socials:
